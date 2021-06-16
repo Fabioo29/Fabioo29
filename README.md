@@ -1,16 +1,14 @@
-### Hi there 👋
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-<!--
-**Fabioo29/Fabioo29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+class Engineer:
+    def __init__(self):
+        self.name = "Fábio Oliveira"
+        self.tech_stack = ['Python', 'Django', 'Bootstrap', 'JQuery', 'CSS', 'HTML']
+        self.contact = 'fabiodiogo29@gmail.com'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+me = Engineer()
+```
