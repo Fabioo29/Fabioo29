@@ -22,8 +22,8 @@ class Engineer:
 me = Engineer()
 me.GetInTouch('fabioo29', 'fabiodiogo29@gmail.com')
 ```
-<img  src="https://github-readme-stats.vercel.app/api?username=Fabioo29&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Fabioo29&theme=dark" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=Fabioo29&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Fabioo29&theme=dark" width="45%" >
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Fabioo29/count.svg" alt="Visitor Count" align="center" />
