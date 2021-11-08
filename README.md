@@ -6,7 +6,7 @@ src="https://github.com/Fabioo29/Fabioo29/raw/main/images/Hi.gif" height="32" />
 # -*- coding: utf-8 -*-
 
 
-class Engineer:
+class Developer:
     def __init__(self):
         self.name = "Fábio Oliveira"
         self.tech_stack = {
@@ -19,7 +19,7 @@ class Engineer:
         print('Reach me on linkedin.com/in/{}/ or with {}.'.format(args[0], args[1]))
 
 
-me = Engineer()
+me = Developer()
 me.GetInTouch('fabioo29', 'fabiodiogo29@gmail.com')
 ```
 <img  src="https://github-readme-stats.vercel.app/api?username=Fabioo29&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
