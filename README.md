@@ -16,7 +16,7 @@ class Developer:
             }
     
     def GetInTouch(self, *args):
-        print('Reach me on linkedin.com/in/{}/ or with {}.'.format(args[0], args[1]))
+        print(f'Reach me on linkedin.com/in/{args[0]}/ or with {args[1]}.')
 
 
 me = Developer()
