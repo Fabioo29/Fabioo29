@@ -9,11 +9,7 @@ src="https://github.com/Fabioo29/Fabioo29/raw/main/images/Hi.gif" height="32" />
 class Developer:
     def __init__(self):
         self.name = "Fábio Oliveira"
-        self.tech_stack = {
-            'main': ['Python', 'Django', 'Docker', 'Git'],
-            'web': ['Bootstrap', 'JQuery', 'CSS', 'HTML'],
-            'xtra': ['C', 'C++', 'VHDL', 'Assembly', 'MATLAB']
-            }
+        self.position = "Software Engineer"
     
     def GetInTouch(self, *args):
         print(f'Reach me on linkedin.com/in/{args[0]}/ or with {args[1]}.')
