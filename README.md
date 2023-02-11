@@ -12,11 +12,11 @@ class Developer:
         self.position = "Software Engineer"
     
     def GetInTouch(self, *args):
-        print(f'Reach me on linkedin.com/in/{args[0]}/ or with {args[1]}.')
+        print(f'Reach me at {args[0]}.')
 
 
 me = Developer()
-me.GetInTouch('fabioo29', 'faoliveirawork@gmail.com')
+me.GetInTouch('faoliveirawork@gmail.com')
 ```
 <img  src="https://github-readme-stats.vercel.app/api?username=Fabioo29&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Fabioo29&theme=dark" width="45%" >
