@@ -11,12 +11,12 @@ class Developer:
         self.name = "Fábio Oliveira"
         self.position = "Software Engineer"
     
-    def GetInTouch(self, *args):
-        print(f'Reach me at {args[0]}.')
+    def GetInTouch(self, linkedin, email='faoliveirawork@gmail.com'):
+        print(f'Reach out to me on {linkedin}')
 
 
 me = Developer()
-me.GetInTouch('faoliveirawork@gmail.com')
+me.GetInTouch(**dict(linkedin='linkedin.com/in/fabioo29'))
 ```
 <img  src="https://github-readme-stats.vercel.app/api?username=Fabioo29&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Fabioo29&theme=dark" width="45%" >
